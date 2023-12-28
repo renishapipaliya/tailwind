@@ -7,7 +7,7 @@ function Exports() {
         <img src="/assets/laptop.jpg" className='inline' />
       </div>
       <div className=" col-span-2 flex flex-col justify-center ">
-        <h1 className='text-[#00df9a] font-bold my-2'>Learn From Experts</h1>
+        <h1 className='text-black font-bold my-2 text-2xl'>Learn From Experts</h1>
         <p className='my-2 text-justify'>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum
           molestiae delectus culpa hic assumenda, voluptate reprehenderit dolore

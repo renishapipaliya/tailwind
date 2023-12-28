@@ -2,7 +2,7 @@ import React from 'react'
 
 function News() {
   return (
-    <div className="bg-[#2699fb] p-4">
+    <div className="bg-black p-4 pt-10 mt-20">
       <div className="max-w[1240px] mx-auto md:flex justify-between py-[50px]">
         <div className='m-2'>
           <h1 className=" text-[20px] md:text-[40px] text-white font-bold">
@@ -18,7 +18,7 @@ function News() {
             className="p-3 mr-2 text-gray-800 rounded-md fn:w-full"
             placeholder="Email"
           />
-          <button className="bg-black text-white w-[200px] rounded-md mb-2 font-medium my-6 mx-auto md:mx-0 p-3 cursor-pointer">
+          <button className="bg-white text-black w-[200px] rounded-md mb-2 font-medium my-6 mx-auto md:mx-0 p-3 cursor-pointer">
             Get Started
           </button>
           <br />
